@@ -28,7 +28,7 @@ print(keys.json())
     'messages': [],
     'errors': [],
     'success': True,
-    'result_info': {'cursor': '', 'count': 3},
+    'result_info': {'cursor': '', 'count': 2},
     'result': [
         {'name': 'Adam'},
         {'name': 'John'},
